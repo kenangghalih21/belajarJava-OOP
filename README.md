@@ -1,2 +1,2 @@
-# Belajar-Java
-my record of studying java
+# Belajar-Java-OOP
+OOP in java with VSCode
